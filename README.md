@@ -8,6 +8,7 @@
 
 I am a front-end software engineer and programming enthusiast. I love code, writing, playing some games and watching movies.
 
+<p>
 ![giphy](https://user-images.githubusercontent.com/90226201/134319332-c88bd27c-8021-44cd-a1b2-0aec066cf318.gif)
 
 *Talking about Personal Stuffs:**
@@ -16,7 +17,7 @@ I am a front-end software engineer and programming enthusiast. I love code, writ
 - 🚀 I’m currently learning more about front-end project;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dwiandika911@gmail.com;
-
+</p>
 </br>
 
 📊 **This Week I Spent My Time On:**

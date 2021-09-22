@@ -13,7 +13,7 @@ I am a front-end software engineer and programming enthusiast. I love code, writ
 *Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [leetcode](https://leetcode.com/GKassym);
+- 🚀 I’m currently learning more about front-end project;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dwiandika911@gmail.com;
 

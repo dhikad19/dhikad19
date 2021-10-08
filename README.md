@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dwi-a-8b7a1996/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhikad19)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dhikad19/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/dikad19/)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=dhikad19.dhikad19)
 
@@ -21,11 +21,11 @@ I am a front-end software engineer and programming enthusiast. I love code, writ
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   23 hrs 5 mins   ████████████████░░░░░░░░░   65.35 % 
-Python       57 mins         █████████████░░░░░░░░░░░░   35.83 % 
-HTML         41 mins         █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-CSS          13 mins         █████████░░░░░░░░░░░░░░░░   30.90 % 
-ReactJS      1 min           ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+JavaScript   23 hrs 5 mins      65.35 % 
+Python       57 mins            35.83 % 
+HTML         41 mins            20.77 % 
+CSS          13 mins            30.90 % 
+ReactJS      1 min              13.08 % 
 ```
 <!--END_SECTION:waka-->
 

@@ -1,4 +1,4 @@
-### Hi there, My name Dwi Andika</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, my name Dwi Andika</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dwi-a-8b7a1996/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/dhikad19)
@@ -8,7 +8,7 @@
 
 I am a front-end software engineer and programming enthusiast. I love code, writing, playing some games and watching movies.
 
-![giphy](https://user-images.githubusercontent.com/90226201/134319332-c88bd27c-8021-44cd-a1b2-0aec066cf318.gif)
+![giphy](https://i.giphy.com/media/aGJw0QaCx04Wk/giphy.webp)
 
 *Talking about Personal Stuffs:**
 
